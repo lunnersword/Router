@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LunaPresentationTransition",
+        "repositoryURL": "git@github.com:lunnersword/LunaPresentationTransition.git",
+        "state": {
+          "branch": null,
+          "revision": "865561bfc4643da5efa5e28ea2156a11fee7aa66",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
